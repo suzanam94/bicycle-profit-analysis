@@ -9,9 +9,9 @@ Project Overview
   
 2.Key Analyses:
 
--Yearly Trends: Visualized total sales and profit trends (2005-2008), highlighting a decline in 2008.
--Regional Insights: Focused on United States and France for profitability analysis in 2007-2008, as Germany data was limited.
--Monthly Comparisons: Examined monthly profit trends for 2007 and 2008 across regions.
+- Yearly Trends: Visualized total sales and profit trends (2005-2008), highlighting a decline in 2008.
+- Regional Insights: Focused on United States and France for profitability analysis in 2007-2008, as Germany data was limited.
+- Monthly Comparisons: Examined monthly profit trends for 2007 and 2008 across regions.
 
 3. Findings:
 
